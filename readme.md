@@ -24,4 +24,4 @@ When publishing an updated document:
 
 ## Previous revisions
 
-Older documents are stored in [`Previous Revisions`](Previous%20Revisions/) for historical reference. Use the top-level documents for the most current information.
+Older documents are stored in [`Previous Revisions`](Previous%20Revisions/) for historical reference. Use the top-level documents for the most current information. See the [changelog](changelog.md) for manual revision history, corresponding firmware revisions, and product shipment applicability.
